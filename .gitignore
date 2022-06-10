@@ -152,7 +152,9 @@ dmypy.json
 # End of https://www.toptal.com/developers/gitignore/api/python,vscode
 
 data/cifar10
-data/tiny-imagenet-200
+data/tiny-imagenet-200/train
+data/tiny-imagenet-200/val
+data/tiny-imagenet-200/test
 models/ckpts
 logs
 images
