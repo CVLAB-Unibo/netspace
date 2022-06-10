@@ -16,6 +16,17 @@ pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
+## Images and SDF datasets
+NetSpace is trained on networks that are trained either to classify images or to represent implicitly
+the SDF of 3D shapes.  
+As far as images are concerned, we used CIFAR-10 and TinyImageNet. For CIFAR-10 we used the version
+provided by `torchvision`, so it will be downloaded automatically the first time.
+TinyImageNet must be instead downloaded manually and placed in the directory `data\tiny-imagenet-200`.
+Please note that we created a validation split with images from the training set: the split files that
+we used are in the directory `data\tiny-imagenet-200` and the images should be arranged accordingly.  
+For what concerns SDF, we used the code provided by [DeepSDF](https://github.com/facebookresearch/DeepSDF)
+to compute the SDF for the class `chair`.
+
 ## Training NetSpace
 We provide several python scripts to run the experiments reported in our paper.
 Each python file contains several parameters that need to be changed, to indicate output dirs,
