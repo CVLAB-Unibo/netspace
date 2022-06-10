@@ -1,0 +1,16 @@
+resnet_fusedbn;d2;d8;stiny-imagenet-200;models/ckpts/tiny-imagenet-200/single/resnet8/84.pt
+resnet_fusedbn;d2;d8;stiny-imagenet-200;models/ckpts/tiny-imagenet-200/single/resnet8/21.pt
+resnet_fusedbn;d2;d8;stiny-imagenet-200;models/ckpts/tiny-imagenet-200/single/resnet8/24.pt
+resnet_fusedbn;d2;d8;stiny-imagenet-200;models/ckpts/tiny-imagenet-200/single/resnet8/160.pt
+resnet_fusedbn;d2;d8;stiny-imagenet-200;models/ckpts/tiny-imagenet-200/single/resnet8/159.pt
+resnet_fusedbn;d2;d8;stiny-imagenet-200;models/ckpts/tiny-imagenet-200/single/resnet8/114.pt
+resnet_fusedbn;d2;d8;stiny-imagenet-200;models/ckpts/tiny-imagenet-200/single/resnet8/66.pt
+resnet_fusedbn;d2;d8;stiny-imagenet-200;models/ckpts/tiny-imagenet-200/single/resnet8/133.pt
+resnet_fusedbn;d2;d8;stiny-imagenet-200;models/ckpts/tiny-imagenet-200/single/resnet8/153.pt
+resnet_fusedbn;d2;d8;stiny-imagenet-200;models/ckpts/tiny-imagenet-200/single/resnet8/176.pt
+resnet_fusedbn;d2;d8;stiny-imagenet-200;models/ckpts/tiny-imagenet-200/single/resnet8/0.pt
+resnet_fusedbn;d2;d8;stiny-imagenet-200;models/ckpts/tiny-imagenet-200/single/resnet8/61.pt
+resnet_fusedbn;d2;d8;stiny-imagenet-200;models/ckpts/tiny-imagenet-200/single/resnet8/4.pt
+resnet_fusedbn;d2;d8;stiny-imagenet-200;models/ckpts/tiny-imagenet-200/single/resnet8/10.pt
+resnet_fusedbn;d2;d8;stiny-imagenet-200;models/ckpts/tiny-imagenet-200/single/resnet8/170.pt
+resnet_fusedbn;d2;d8;stiny-imagenet-200;models/ckpts/tiny-imagenet-200/single/resnet8/107.pt

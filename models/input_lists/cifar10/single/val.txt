@@ -1,0 +1,16 @@
+resnet_fusedbn;d2;d8;scifar10;models/ckpts/cifar10/single/resnet8/46.pt
+resnet_fusedbn;d2;d8;scifar10;models/ckpts/cifar10/single/resnet8/48.pt
+resnet_fusedbn;d2;d8;scifar10;models/ckpts/cifar10/single/resnet8/59.pt
+resnet_fusedbn;d2;d8;scifar10;models/ckpts/cifar10/single/resnet8/69.pt
+resnet_fusedbn;d2;d8;scifar10;models/ckpts/cifar10/single/resnet8/88.pt
+resnet_fusedbn;d2;d8;scifar10;models/ckpts/cifar10/single/resnet8/84.pt
+resnet_fusedbn;d2;d8;scifar10;models/ckpts/cifar10/single/resnet8/98.pt
+resnet_fusedbn;d2;d8;scifar10;models/ckpts/cifar10/single/resnet8/85.pt
+resnet_fusedbn;d2;d8;scifar10;models/ckpts/cifar10/single/resnet8/147.pt
+resnet_fusedbn;d2;d8;scifar10;models/ckpts/cifar10/single/resnet8/133.pt
+resnet_fusedbn;d2;d8;scifar10;models/ckpts/cifar10/single/resnet8/135.pt
+resnet_fusedbn;d2;d8;scifar10;models/ckpts/cifar10/single/resnet8/191.pt
+resnet_fusedbn;d2;d8;scifar10;models/ckpts/cifar10/single/resnet8/187.pt
+resnet_fusedbn;d2;d8;scifar10;models/ckpts/cifar10/single/resnet8/259.pt
+resnet_fusedbn;d2;d8;scifar10;models/ckpts/cifar10/single/resnet8/339.pt
+resnet_fusedbn;d2;d8;scifar10;models/ckpts/cifar10/single/resnet8/379.pt
